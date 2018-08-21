@@ -22,6 +22,10 @@ language, in any application.
      <img src="https://github.com/getsentry/sentry/raw/master/src/sentry/static/sentry/images/sentry-product-issue-screenshot.png" height="180">
      <img src="https://github.com/getsentry/sentry/raw/master/src/sentry/static/sentry/images/sentry-product-project-screenshot.png" height="180">
      <img src="https://github.com/getsentry/sentry/raw/master/src/sentry/static/sentry/images/sentry-product-releases-screenshot.png" height="180">
+
+.. image:: https://badges.staging.guardrails.io/fictional-tribble/getsentry--sentry.svg
+   :alt: GuardRails Staging badge
+   :target: https://www.staging.guardrails.io
    </p>
 
 Official Sentry SDKs
