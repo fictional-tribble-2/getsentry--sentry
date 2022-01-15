@@ -6354,9 +6354,9 @@ markdown-table@^1.1.0:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/markdown-table/-/markdown-table-1.1.2.tgz#c78db948fa879903a41bce522e3b96f801c63786"
 
-marked@0.3.17:
-  version "0.3.17"
-  resolved "https://registry.yarnpkg.com/marked/-/marked-0.3.17.tgz#607f06668b3c6b1246b28f13da76116ac1aa2d2b"
+marked@4.0.10:
+  version "4.0.10"
+  resolved "https://registry.yarnpkg.com/marked/-/marked-4.0.10.tgz#423e295385cc0c3a70fa495e0df68b007b879423"
 
 marked@^0.3.6:
   version "0.3.7"
